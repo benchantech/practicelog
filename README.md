@@ -39,7 +39,14 @@ Track daily practice time with simple JSON entries and visualize progress.
    - Go to the **Actions** tab.  
    - After a few minutes, the progress dot will change from brown to green (refresh if needed).
 
-7. **View Your Progress**  
+7. **Enable GitHub Pages**  
+   - Go to your repository **Settings > Pages**.  
+   - Under **Source**, select the `main` branch and click **Save**.  
+   - You do not need a custom domain; the default GitHub Pages URL is fine.
+
+8. **View Your Progress**  
    - Visit [practice.benchantech.com](https://practice.benchantech.com).  
    - Click **Show Settings** and fill in your information.  
    - Click **Update** to see your minutes visualized in the graph.
+   - Come back anytime on the same device and view your progress.
+   - Click **Share** to generate a link that a trusted person can use to see your progress as well!
